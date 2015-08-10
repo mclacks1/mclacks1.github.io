@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<link href="documents/CSS-Skeletons.css" rel="stylesheet">
+<title> Part 2 of My Website </title>
+<link href="CSS-Skeletons2.css" rel="stylesheet"/>
+</head>
+
+<body>
+
+<h1> My YWEB TECH Journey </h1>
+
+<section>
+
+<nav> <a href="blog.docx">download my blog post</a> </nav>
+
+</section>
+
+<footer>
+</footer>
+</body>
+</html>
+

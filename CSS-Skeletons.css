@@ -1,0 +1,95 @@
+html {
+  background-color: #F5BC11;
+  color: #F7F8FF;
+  background-image: url(http://previews.123rf.com/images/ambientideas/ambientideas0912/ambientideas091200017/6096302-Gold-Glitter-Selective-Focus-Stock-Photo-background.jpg);
+}
+head {
+  margin: 10px;
+  background-color: #F5BC11; 
+  font-style: italic;
+  font-family: georgia;
+  font-size: 18px;
+  text-align: center;
+}
+body{
+  font-size: 18px;
+  font-family: georgia;
+  text-align: center;
+}
+title {
+  font-style: bold;
+  font-family: georgia;
+  font-size: large;
+  text-transform: uppercase;
+  font-size: 32px;
+}
+.main {
+  font-style: italic;
+  font-family: georgia;
+  font-size: small;
+  text-transform: lowercase;
+  font-size: 12px;
+}
+h1 {
+  font-style: bold;
+  font-family: georgia;
+  font-color: black;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+nav {
+  font-style: bold
+  font-family: georgia;
+  font-color: black;
+  font-size: 20px;
+  text-tranform: uppercase;
+}
+.submain {
+  padding: 20px;
+  margin: 10px;
+  font-family: georgia;
+  font-size: 18px;
+}
+aside {
+  line-style: decimal;
+  font-weight: bold;
+  word-spacing: 4em;
+}
+h3 {
+  font-transform: uppercase;
+  font-family: sans-serif;
+  font-style: bold;
+  font-size: 18px;
+}
+p {
+  line height: 100%;
+  font-variant: normal;
+  font-style: italic;
+}
+h4 {
+  font-transform: uppercase;
+  font-family: georgia;
+  font-style: bold;
+nav {
+  font-style: bold
+  font-family: georgia;
+  font-color: black;
+}
+footer {
+  font-weight: 600;
+  padding: 40px;
+  margin: 50px;
+  border-style: dotted line;
+}
+section {
+  padding: 40px;
+  margin: 60px;
+  font-family: georgia;
+  font-size: 14px;
+}
+body {
+  font-transform: lowercase;
+  font-family: georgia;
+  font-style: italic;
+  font-size: 14px;
+}

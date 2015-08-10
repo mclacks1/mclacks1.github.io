@@ -1,0 +1,51 @@
+html {
+  background-color: #F5BC11;
+  color: #F7F8FF;
+  background-image: url(http://previews.123rf.com/images/ambientideas/ambientideas0912/ambientideas091200017/6096302-Gold-Glitter-Selective-Focus-Stock-Photo-background.jpg);
+head {
+  margin: 70px;
+  padding: 50px;
+  background-color: #F5BC11;
+}
+img {
+  width: 500px;
+  height: auto;
+}
+link {
+  background-position: 100%;
+  background-attachment: fixed;
+}
+title{
+  font-family: georgia;
+  font-style: bold;
+  font-size: 40px;
+  text-align: center;
+}
+body {
+  font-style: italic;
+  font-size: 40px;
+  font-transform: lowercase;
+}
+h1 {
+  font-family: georgia;
+  font-style: bold italic;
+  font-size: 40px;
+  text-decoration: underline;
+}
+section {
+  font-family: georgia;
+  font-style: italic;
+}
+nav{
+  font-size: 40px;
+}
+footer {
+  padding: 55px;
+  margin: 45px;
+  border-width: thick thin;
+}
+body {
+  font-family: georgia;
+  font-style: italic;
+  font-size: 15pts;
+}
